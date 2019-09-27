@@ -60,3 +60,6 @@ h2 {
 p {
     font-size: 0.875em;
 }
+
+// middle.css
+@media (min-width: 32.5em) { ... } 
