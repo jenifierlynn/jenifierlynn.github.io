@@ -15,8 +15,8 @@ footer {
 header,
 footer {
     border-radius: 10px;
-    background-color: burlywood;
-    color: saddlebrown;
+    background-color: rgb(131, 123, 112);
+    color: rgb(139, 149, 172);
     text-align: center;
     padding: 1.5rem;
 }
