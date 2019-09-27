@@ -1,5 +1,5 @@
 body {
-    font-family: "Lucida Sans Unicode", sans-serif;
+    font-family: Verdana, sans-serif;
     font-size: 100%;
     line-height: 1.5;
 }
@@ -15,8 +15,8 @@ footer {
 header,
 footer {
     border-radius: 10px;
-    background-color: rgb(143, 179, 163);
-    color: rgb(29, 37, 37);
+    background-color: burlywood;
+    color: saddlebrown;
     text-align: center;
     padding: 1.5rem;
 }
@@ -49,7 +49,7 @@ img {
 h1 {
     font-size: 2.75em;
     font-weight: bold;
-    font-family: 'Trirong', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h2 {
